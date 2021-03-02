@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+
+/* body */
+
+body{
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+/* body */
+
+/* home page css start*/
+
+.home-page{
+  background: #000000;
+  background-size: cover;
+}
+
+.container{
+  background: lightgray;
+}
+
+.header-home-page{
+  margin-top: 64px;
+  text-align: center;
+}
+
+.films-home-page{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+/* home page css end */
+
+
+/* navbar css start */
+
+.MuiAppBar-colorPrimary{
+  background: black !important;
+}
+
+.makeStyles-root-1{
+  height: 0;
+}
+
+/* navbar css end */
